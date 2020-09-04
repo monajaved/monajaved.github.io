@@ -1,11 +1,11 @@
 # Site settings
-author: Syed Mona Javed
-title: 
+author: Mona Javed 
+title: Future Programmer
 header-img: img/home-bg.png
 email: monajaved93@gmail.com
-copyright_name: Syed Mona Javed
+copyright_name: Mona Javed 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My journey towards programming
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  monajaved
